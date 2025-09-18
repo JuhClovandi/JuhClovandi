@@ -16,7 +16,7 @@ Me chamo Júlia Clovandi Vasconcelos, tenho 19 anos e sou natural de Brasília -
 
 ---
 
-### 🤖 Linguagens, Tecnologias e Metodologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -41,14 +41,6 @@ Me chamo Júlia Clovandi Vasconcelos, tenho 19 anos e sou natural de Brasília -
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="left" 
@@ -84,22 +76,6 @@ Me chamo Júlia Clovandi Vasconcelos, tenho 19 anos e sou natural de Brasília -
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Canva" 
-    title="Canva" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Swift" 
     title="Swift" 
     width="30px" 
@@ -108,20 +84,21 @@ Me chamo Júlia Clovandi Vasconcelos, tenho 19 anos e sou natural de Brasília -
 />
 <img 
     align="left" 
-    alt="Kanban" 
-    title="Kanban" 
+    alt="Figma" 
+    title="Figma" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="left" 
-    alt="Scrum" 
-    title="Scrum" 
+    alt="SQL" 
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
 
 <br/>
 <br/>
